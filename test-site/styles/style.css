@@ -1,0 +1,74 @@
+p {
+    color: red;
+    width: 500px;
+    border: 10px dotted black;
+}
+
+li, h1 {
+    color: blue;
+}
+
+.my-class {
+    color: orange;
+}
+
+img[alt] {
+    width: 200px;
+}
+
+#thinkers {
+    color: pink;
+}
+
+a:hover, #thinkers:hover {
+    color: mediumseagreen;
+}
+
+html {
+    font-size: 20px;
+    font-family: 'Ma Shan Zheng', cursive;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 30px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+h6 {
+    text-align: right;
+}
+
+html {
+    background-color: #7ED1BE;
+}
+
+body {
+    background-color: #D1B37E;
+    border: 5px solid black;
+
+    width: 500px; 
+    margin: 100px auto;
+
+    padding: 10px 10px;
+}
+
+h1 {
+    margin: 0;
+    border: 2px solid black;
+
+    padding: 0 0;
+    color: #30bd9c;
+
+    text-shadow: 5px 10px 1px pink;
+}
+
+img[alt] {
+    display: block;
+    margin: 0 auto;
+}
